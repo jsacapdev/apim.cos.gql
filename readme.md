@@ -48,7 +48,7 @@ Seed it with the following data:
 ## Creating the API in APIM
 
 
-Create the API, of type GraphQL. Select the setting for a `Synthetic GraphQL` type and upload the following schema:
+Create the API, of type GraphQL. Select the setting for a `Synthetic GraphQL` type and upload the following [schema](https://github.com/jsacapdev/apim.cos.gql/blob/main/schema/schema.graphql):
 
 ``` graphql
 type TodoItem { 
