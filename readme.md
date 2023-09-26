@@ -1,6 +1,6 @@
 # API Management to Cosmos Db using a Graph QL Binding
 
-A [preview](https://azure.microsoft.com/en-gb/updates/public-preview-graphql-resolvers-for-azure-cosmos-db-azure-sql-in-azure-api-management/) feature that configures a [GraphQL resolver](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/expose-your-data-from-azure-cosmos-db-or-azure-sql-through-a/ba-p/3846252) over a data source. It removes the need for a web application (api) that connects to the data source and presents the data out using a GraphQL schema. For this example, CosmosDb is used as the data source.
+A [preview](https://azure.microsoft.com/en-gb/updates/public-preview-graphql-resolvers-for-azure-cosmos-db-azure-sql-in-azure-api-management/) feature that configures a [GraphQL resolver](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/expose-your-data-from-azure-cosmos-db-or-azure-sql-through-a/ba-p/3846252) over a data source. It removes the need for a web application (api) that connects to the data source and presents the data out using a GraphQL schema (one less moving part). For this example, CosmosDb is used as the data source.
 
 ## Supporting infrastructure
 
